@@ -1,7 +1,19 @@
+import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
+import About from "./components/About";
+import Skills from "./components/Skills";
+import Work from "./components/Work";
+import Contact from "./components/Contact";
+
 function App() {
   return (
     <div>
-      <h1 className="text-2xl font-bold">Hello</h1>
+      <Navbar />
+      <Hero />
+      <About />
+      <Skills />
+      <Work />
+      <Contact />
     </div>
   );
 }
