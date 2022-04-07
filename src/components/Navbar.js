@@ -28,7 +28,6 @@ const Navbar = () => {
           </Link>
         </li>
         <li>
-          {" "}
           <Link to="about" smooth={true} duration={500}>
             About
           </Link>
@@ -39,7 +38,6 @@ const Navbar = () => {
           </Link>
         </li>
         <li>
-          {" "}
           <Link to="work" smooth={true} duration={500}>
             Work
           </Link>
@@ -102,7 +100,7 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href="https://www.linkedin.com/in/jamarriley/"
             >
               Github <FaGithub size={30} />
             </a>
