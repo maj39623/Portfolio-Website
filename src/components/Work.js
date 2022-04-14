@@ -31,10 +31,7 @@ const Work = () => {
                 React Video Game Database
               </span>
               <div className="pt-8 text-center">
-                <a
-                  href="https://profound-cuchufli-fc1553.netlify.app"
-                  target="_blank"
-                >
+                <a href="https://sparkproject.netlify.app" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
@@ -88,10 +85,7 @@ const Work = () => {
                 React Music Player
               </span>
               <div className="pt-8 text-center">
-                <a
-                  href="https://compassionate-agnesi-c769c2.netlify.app"
-                  target="_blank"
-                >
+                <a href="https://codewithmeplayer.netlify.app" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
